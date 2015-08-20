@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# ruby echochat.rb
+# ruby good_idea.rb
 
 $: << File.expand_path('../../lib/', __FILE__)
 require 'sinatra'
